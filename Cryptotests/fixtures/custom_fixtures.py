@@ -1,3 +1,4 @@
+# FIXTURES FOR MAKING CRUD HTTP METHODS
 import pytest
 
 from libs.config import Config
